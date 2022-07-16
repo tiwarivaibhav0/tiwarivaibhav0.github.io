@@ -1,0 +1,13 @@
+body{
+    background-image: url('background.webp');
+    /* background-size: 200px 200px; */
+}
+.container{
+    width: 30%;
+    margin: auto;
+    margin-top: 25%;
+    
+}
+#store{
+    margin-left: 10%;
+}
